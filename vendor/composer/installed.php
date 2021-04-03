@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => '61444f97b399bc27fe2f3d7312a441c244589733',
+    'reference' => '404edc889c59bcaffd7ad664d7d18f50cf575d4b',
     'name' => '__root__',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => '61444f97b399bc27fe2f3d7312a441c244589733',
+      'reference' => '404edc889c59bcaffd7ad664d7d18f50cf575d4b',
     ),
     'phpunit/php-timer' => 
     array (
