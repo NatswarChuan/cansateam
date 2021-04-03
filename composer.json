@@ -1,21 +1,9 @@
 {
 
   {
-    "name": "NatswarChuan/cansateam.git",
-    "description": "Create text",
-    "keywords": [
-    ],
-    "authors": [
-      {
-        "name": "NatswarChuan",
-        "email": "natswarchuan@gmail.com",
-        "homepage": ""
-      }
-    ],
-    "license": "MIT",
+    
     "require": {
       "phpunit/php-timer": "^1.0"
-    },
-    "minimum-stability": "dev"
+    }
   }		
 }
